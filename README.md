@@ -1,5 +1,5 @@
 - 👋 Hey there I’m Ksenia Kachtelian 
-- 🇺🇦 🇷🇺 Ukranian/Russian living in 🇦🇺 Australia 
+- 🇷🇺 🇺🇦 Russian/Ukranian living in 🇦🇺 Australia 
 - 👀 I’m interested in: 
       <div> - software that helps make daily tasks quicker + easier 
       <div> - creating solutions & optimising workflows to achieve the best user experience 
